@@ -4,6 +4,7 @@
 import 'package:flutter/material.dart';
 import '../ui/quiz_page.dart';
 
+// ignore: must_be_immutable
 class ResultPage extends StatefulWidget {
   int score;
 
